@@ -1,0 +1,24 @@
+# Gonçalves, Costa & Silva Sociedade de Advogados
+
+> Escritório de advocacia em Uberlândia (MG), fundado em 2001, com atuação em Direito de Família e Sucessões, Direito Criminal, Direito da Saúde, Direito Administrativo e do Consumidor e Assessoria Jurídica Empresarial. Atende presencialmente em Uberlândia e online, por WhatsApp e videoconferência, clientes de todo o Triângulo Mineiro.
+
+## Informações do escritório
+
+- Nome: Gonçalves, Costa & Silva Sociedade de Advogados
+- Endereço: Av. Floriano Peixoto, 615, Sala 408, Centro, Uberlândia - MG, 38400-102
+- Telefone e WhatsApp: (34) 99687-0800
+- Horário de atendimento: segunda a sexta, das 08h30 às 17h30
+- Região de atuação: Uberlândia, Araguari, Uberaba e todo o Triângulo Mineiro
+- Atendimento online por videoconferência para clientes de toda a região
+
+## Áreas de atuação
+
+- Direito de Família e Sucessões: divórcio consensual ou litigioso, guarda de menores, pensão alimentícia, inventário judicial e extrajudicial, partilha de bens e planejamento sucessório.
+- Direito Criminal e Defesa Penal: defesa em flagrante, acompanhamento em delegacias, audiência de custódia, habeas corpus e Tribunal do Júri.
+- Direito da Saúde e Erro Médico: ações contra o SUS e planos de saúde, medicamentos de alto custo, cirurgias de urgência e liminar médica, conforme o Tema 793 do STF.
+- Direito Administrativo e do Consumidor: defesa em processos administrativos, reparação por danos morais e materiais e proteção do consumidor.
+- Assessoria Jurídica Empresarial: consultoria preventiva, compliance, análise de contratos comerciais, redução de passivos e mapeamento de riscos.
+
+## Página principal
+
+- [Site do escritório](https://sitesempresas-web.github.io/Goncalves-Costa-Silva-Sociedade-de-Advogados/): áreas de atuação, quem somos, perguntas frequentes e contato.
